@@ -130,7 +130,7 @@ repositories {
 }
 
 dependencies {
-  compile 'com.github.arcnor:universal-tween-engine:6.3.3'
+  compile 'com.github.arcnor:universal-tween-engine:6.3.4'
 }
 ```
 
@@ -146,7 +146,7 @@ dependencies {
     <dependency>
         <groupId>com.github.arcnor</groupId>
         <artifactId>universal-tween-engine</artifactId>
-        <version>6.3.3</version>
+        <version>6.3.4</version>
     </dependency>
 </dependencies>
 ```
